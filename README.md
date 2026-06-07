@@ -14,5 +14,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a></p>
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=photoshop,pr,vscode" alt="My Tools" />
+  </a>
+</p>
 
