@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **jiayuehe0104@gmail.com**
 
+- - 👨‍💻 All of my projects are available at **[https://jiayuehe0104-stack.github.io/portfolio/#multimedia](https://jiayuehe0104-stack.github.io/portfolio/#multimedia)**
+
 - 📄 Know about my experiences **[https://jiayuehe0104-stack.github.io/Resume/](https://jiayuehe0104-stack.github.io/Resume/)**
 
 <h3 align="left">Connect with me:</h3>
